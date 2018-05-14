@@ -1,0 +1,141 @@
+/*principal*/
+
+.background{
+    width: 1800px;
+    height: 2667px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.logo{
+    width: 520px;
+    height: 182px;
+}
+
+.menu{
+    font-family: OpenSans;
+    color: #fefefe;
+    font-size: 18px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 6.103px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+    font-family: OpenSans;
+    color: #fefefe;
+    font-size: 14px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 6.103px; /* Aproximação devido à substituição de fonte */
+    text-align: center; 
+}
+
+.redesS{
+    font-family: FontAwesome5BrandsRegular;
+    color: #fefefe;
+    font-size: 24px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 6.103px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+}
+
+/*começo*/
+
+.divTopo{
+    background-color: #000000;
+    width: 1800px;
+    height: 867px;
+}
+
+.divSlide{
+    background-color: #626260;
+    width: 1800px;
+    height: 586px; 
+}
+
+.imgP{
+    border-radius: 50%;
+    background-color: #a7a7a7;
+    width: 221px;
+    height: 219px; 
+}
+
+.principal{
+    font-family: OpenSans;
+    color: #464646;
+    font-size: 14px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 30px; /* Aproximação devido à substituição de fonte */
+    text-align: left;  
+}
+
+.Button{
+    font-family: OpenSans;
+    color: #000000;
+    font-size: 14px; /* Aproximação devido à substituição de fonte */
+    font-weight: 700;
+    line-height: 30px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+    font-family: FontAwesome5FreeRegular;
+    color: #000000;
+    font-size: 14px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 30px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+    border-width: 0.99px;
+    border-color: #000000;
+    border-style: solid;
+    width: 192px;
+    height: 50px;
+}
+
+.divFotos{
+    background-color: #000000;
+    width: 1800px;
+    height: 505px;
+}
+
+.h1{
+    font-family: OpenSans;
+    color: #ff0000;
+    font-size: 24px; /* Aproximação devido à substituição de fonte */
+    font-weight: 700;
+    line-height: 30px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+}
+
+.imgI{
+    border-radius: 50%;
+    background-color: #a7a7a7;
+    width: 221px;
+    height: 219px;
+}
+
+.legenda{
+    font-family: OpenSans;
+    color: #f3f301;
+    font-size: 18px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 30px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+}
+
+/*Rodapé*/
+
+.divRodape{
+    background-color: #000000;
+    width: 1800px;
+    height: 148px;
+}
+
+.logoRF{
+    background-color: #a7a7a7;
+    width: 120px;
+    height: 73px;
+}
+
+.copyrights{
+    font-family: OpenSans;
+    color: #878787;
+    font-size: 13px; /* Aproximação devido à substituição de fonte */
+    font-weight: 400;
+    line-height: 30px; /* Aproximação devido à substituição de fonte */
+    text-align: center;
+}
